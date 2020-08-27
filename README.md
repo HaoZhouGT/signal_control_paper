@@ -8,11 +8,11 @@ You can find:
 
 We strongly recommend you to cite our paper if necessary:
 
-Congested Urban Networks Tend to Be Insensitive to  Signal Settings: Implications for Learning-Based Control
+Congested Urban Networks Tend to Be Insensitive to Signal Settings: Implications for Learning-Based Control
 
-@article{laval2019large,
-  title={Large-scale traffic signal control using machine learning: some traffic flow considerations},
+@article{laval2020large,
+  title={Congested Urban Networks Tend to Be Insensitive to Signal Settings: Implications for Learning-Based Control},
   author={Laval, Jorge A and Zhou, Hao},
-  journal={arXiv preprint arXiv:1908.02673},
-  year={2019}
+  journal={arXiv preprint arXiv:2008.10989},
+  year={2020}
 }
