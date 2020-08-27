@@ -1,10 +1,6 @@
 # signal_control_paper
 
-This repo contains the code for RL learning using SUMO.
-
-You can find:
-1. A2C and vanilla reinforcement learning for continuing method
-2. the environment for training traffic signal in SUMO
+This repo contains the code for learning traffic signal using RL and the microscopic simualtor SUMO.
 
 We strongly recommend you to cite our paper if necessary:
 
