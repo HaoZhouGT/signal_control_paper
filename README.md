@@ -2,7 +2,7 @@
 
 This repo contains the code for learning traffic signal using RL and the microscopic simualtor SUMO.
 
-We strongly recommend you to cite our paper if necessary:
+Please cite our work as follows:
 
 Congested Urban Networks Tend to Be Insensitive to Signal Settings: Implications for Learning-Based Control
 
